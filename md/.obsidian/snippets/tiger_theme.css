@@ -1,0 +1,71 @@
+body {
+  text-align: justify;
+  --text-highlight-bg: rgba(228, 123, 127, 0.25);
+  --link-unresolved-opacity: 0.75;
+  --bold-weight: var(--font-bold);
+  --code-string: rgb(228, 123, 127);
+  --code-function: rgb(189, 113, 100);
+  --code-tag: rgb(189, 113, 100);
+  --code-size: var(--font-small);
+  --code-value: var(--color-base-40);
+  --code-property: rgb(228, 123, 127);
+  --accent-h: 28;
+  --accent-s: 74%;
+  --accent-l: 70%;
+  --table-cell-vertical-alignment: middle;
+}
+
+del {
+  text-decoration-color: rgba(228, 123, 127, 0.75);
+}
+
+table {
+  margin: auto;
+}
+
+dfn {
+  font-style: normal;
+  color: rgb(228, 123, 127);
+}
+
+del code { 
+  vertical-align: top;
+}
+
+.markdown-rendered mark {
+    color: inherit;
+}
+
+.nav-folder :not(.nav-file-title) [data-path*="Z"]>:first-letter{
+  font-size: 0px;
+}
+	
+.theme-light {
+  --color-base-00: rgb(250, 244, 228);
+  --color-base-05: rgb(247, 241, 225);
+  --color-base-10: rgb(246, 239, 223);
+  --color-base-20: rgb(242, 234, 219);
+  --color-base-25: rgb(225, 213, 200);
+  --color-base-30: rgb(223, 210, 197);
+  --color-base-35: rgb(212, 197, 185);
+  --color-base-40: rgb(192, 172, 162);
+  --color-base-50: rgb(176, 152, 145);
+  --color-base-60: rgb(133, 98, 96);
+  --color-base-70: rgb(105, 63, 64);
+  --color-base-100: rgb(56, 2, 8);
+}
+
+.theme-dark {
+  --color-base-100: rgb(212, 203, 190);
+  --color-base-70: rgb(194, 181, 171);
+  --color-base-60: rgb(128, 107, 104);
+  --color-base-50: rgb(112, 88, 87);
+  --color-base-40: rgb(90, 63, 64);
+  --color-base-35: rgb(81, 53, 55);
+  --color-base-30: rgb(69, 39, 42);
+  --color-base-25: rgb(65, 35, 38);
+  --color-base-20: rgb(62, 32, 36);
+  --color-base-10: rgb(60, 29, 33);
+  --color-base-05: rgb(57, 26, 30);
+  --color-base-00: rgb(50, 20, 23);
+}

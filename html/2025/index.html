@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>2025!</title>
+	</head>
+	<style>
+		#music-image {
+			animation: rotateArround 3.5s linear 3s infinite alternate;
+			-webkit-animation: rotateArround 3.5s linear 3s infinite alternate;
+			-moz-animation: rotateArround 3.5s linear 3s infinite;
+			-ms-animation: rotateArround 3.5s linear 3s infinite;
+			-o-animation: rotateArround 3.5s linear 3s infinite;
+		}
+
+		@keyframes rotateArround {
+			from {
+				transform: rotateZ(0deg);
+			}
+
+			to {
+				transform: rotateZ(360deg);
+			}
+		}
+
+		@-webkit-keyframes rotateArround {
+			from {
+				-webkit-transform: rotate(0deg);
+			}
+
+			to {
+				-webkit-transform: rotate(360deg);
+			}
+		}
+
+		@-moz-keyframes rotateArround {
+			from {
+				-moz-transform: rotate(0deg);
+			}
+
+			to {
+				-moz-transform: rotate(360deg);
+			}
+		}
+
+		@-ms-keyframes rotateArround {
+			from {
+				-ms-transform: rotate(0deg);
+			}
+
+			to {
+				-ms-transform: rotate(360deg);
+			}
+		}
+
+		@-o-keyframes rotateArround {
+			from {
+				-o-transform: rotate(0deg);
+			}
+
+			to {
+				-o-transform: rotate(360deg);
+			}
+		}
+	</style>
+	<body>
+		<audio id="music" style="display: none" class="musicControl" autoplay="autoplay" loop="loop" preload="auto"
+			controls="controls" src="./lib/music.mp3"></audio>
+		<img id="music-image" style="position: fixed;z-index: 999;height:30px;right: 20px;top: 20px;" src="./lib/cc.jpg"
+			alt="" />
+	</body>
+	<script src='./lib/gameCanvas-4.0.js'></script>
+	<script src="./lib/script.js"></script>
+	<script>
+		let musicImage = document.getElementById('music-image');
+		let is = 1;
+		musicImage.addEventListener('click', () => {
+			let music = document.getElementById('music');
+			if (is === 0) {
+				is = 1;
+				musicImage.src = './lib/cd.jpg';
+				music.play();
+			} else {
+				is = 0;
+				musicImage.src = './lib/ca.jpg';
+				music.pause();
+			}
+		});
+		if (typeof WeixinJSBridge == "undefined") {
+			document.addEventListener('WeixinJSBridgeReady', function() {
+				document.getElementById('music').play();
+			}, false);
+		} else {
+			WeixinJSBridge.invoke("getNetworkType", {}, function() {
+				document.getElementById('music').play();
+			});
+		}
+		let play = document.addEventListener('touchstart', function() {
+			let music = document.getElementById('music');
+			music.muted = false;
+			musicImage.src = './lib/cd.jpg';
+			document.removeEventListener('touchstart', play);
+		});
+	</script>
+</html>

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "01debcca2025456b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff23d07667ec8c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f99ca6ac59e422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药学/补虚药/补气药/大枣.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "36f6bea101ead309"
+          }
+        ]
+      },
+      {
+        "id": "fed41476d78e4be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afeb8ad8f34acedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药学/补虚药/补气药/大枣.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "36f6bea101ead309"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9918fe4915e4f7c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e53759cac548415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e982f09c7200962",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83541bea04e86b2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "src",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41740d6a3b9b2bee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "078ce9a3020eff9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e41f0a6725d415d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40566aabdf1e45a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中药学/补虚药/补气药/大枣.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6753b10eac748d14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中药学/补虚药/补气药/大枣.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59df129395db8c66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84e57ee17bc474b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中药学/补虚药/补气药/大枣.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "afeb8ad8f34acedc",
+  "lastOpenFiles": [
+    "index.md",
+    "中药学/补虚药/补气药/黄芪.md",
+    "中药学/补虚药/补气药/大枣.md",
+    "中医学基础/+仓廒+/lab.md",
+    "中医学基础/+仓廒+/表格实验.md",
+    "中药学/+仓廒+/底梁.md",
+    "中药学/+仓廒+/取字文件.md",
+    "中药学/补虚药/补气药/人参.md",
+    "中医学基础/哲学观/气概念的形成.md",
+    "中医学基础/+仓廒+/备案图标1.png",
+    "中医学基础/生命观/经络/冲脉.md",
+    "中医学基础/+仓廒+/备案图标2.png",
+    "诗集/1966.8.5七绝·炮打司令部.md",
+    "诗集/1966.6七律·有所思.md",
+    "诗集/1973.8.5七律·读《封建论》呈郭老.md",
+    "中医学基础/生命观/经络/经络.md",
+    "防治观.md",
+    "中医学基础/防治观/治则.md",
+    "中医学基础/防治观/养生与防治原则.md",
+    "中医学基础/防治观/养生的概念.md",
+    "中医学基础/防治观/养生的基本原则.md",
+    "中医学基础/生命观/经络/阴维脉和阳维脉.md",
+    "中医学基础/生命观/经络/阴蹻脉和阳蹻脉.md",
+    "中医学基础/总论/象思维.md",
+    "中医学基础/哲学观/阴阳概念的形成.md",
+    "中医学基础/总论/中医学理论体系的形成和发展.md",
+    "中医学基础/总论/绪论.md",
+    "中药学/化湿药/化湿药.md",
+    "中医学基础/疾病观/病机",
+    "中医学基础/疾病观/病因",
+    "中医学基础/生命观/藏象",
+    "中医学基础/生命观/精气血津液神",
+    "中医学基础/生命观/经络",
+    "中医学基础/生命观/体质",
+    "中医学基础/+仓廒+/阴维脉.png",
+    "中医学基础/+仓廒+/阴蹻脉.png",
+    "中医学基础/+仓廒+/阳蹻脉.png",
+    "中医学基础/+仓廒+/阳维脉.png",
+    "中医学基础/+仓廒+/足阳明胃经.png",
+    "中医学基础/+仓廒+/足少阴肾经.png",
+    "中医学基础/+仓廒+/足少阳胆经.png",
+    "中医学基础/+仓廒+/足太阴脾经.png",
+    "中医学基础/防治观",
+    "中医学基础/疾病观",
+    "中医学基础/生命观",
+    "中医学基础/哲学观"
+  ]
+}
