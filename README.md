@@ -4,7 +4,7 @@
 <p align="center" >
 an inter-linked textbook website for Traditional Chinese Medicine based on Obsidian at <br><a href="https://qiuxiandongshou.com" style="color: #ebaf79; font-weight: bold;"><b>qiuxiandongshou.com</b></a>
 
-备战考研，SSL证书暂停更新
+
 
 <p align="center">
 				<small>
