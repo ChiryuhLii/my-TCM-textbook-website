@@ -50,7 +50,7 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 			</p></p>
 </p>
 
-:warning: **再次申明**：本项目或网站**均不**存储教材扫描件或任何pdf文件。仓库仅作为网站框架展示，任何因用户自行分发或商业使用受版权保护内容而引发的法律纠纷，与本仓库维护者无关。
+:warning: **再次申明**：本项目或网站**均不**存储教材扫描件或任何pdf文件。仓库仅作为网站框架展示，任何因用户自行分发或商业使用受版权保护内容而引发的法律纠纷，与本仓库维护者无关。 :warning:
 
 
 
