@@ -4,11 +4,13 @@
 <p align="center" >
 an inter-linked textbook website for Traditional Chinese Medicine based on Obsidian at <br><a href="https://qiuxiandongshou.com" style="color: #ebaf79; font-weight: bold;"><b>qiuxiandongshou.com</b></a>
 
-***
+
 <blockquote>
 :warning: <strong>本项目为前端技术Demo与个人学习笔记，并非内容分发平台。本站仅作为教辅用途，无完整教材内容，无法替代原版教材的系统性和准确性。</strong> :warning:
 </blockquote>
 
+
+***
 
 #### 📜 版权归属 
 
@@ -34,7 +36,7 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 
 ***
 #### ✅ 网站备案
-为表明项目的技术性质与合规性，本站已完成**工信部ICP备案**和**公安联网备案**：
+本站已完成**工信部ICP备案**和**公安联网备案**，以宣明本项目技术性与合规性：
 
 <p align="center">
 				<small>
