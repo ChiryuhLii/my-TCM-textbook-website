@@ -34,6 +34,8 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 - **欢迎**：提交Bug修复、UI/UX改进、性能优化、代码重构等相关的Issue和Pull Request。
 - **谢绝**：**任何请求或提交涉及教材实质内容的PR**，涉及版权问题，不予合并。
 
+***
+
 ### ✅ 网站备案
 本站已完成**工信部ICP备案**和**公安联网备案**，以宣明本项目技术性与合规性：
 
