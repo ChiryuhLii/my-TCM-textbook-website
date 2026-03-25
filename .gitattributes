@@ -1,0 +1,12 @@
+
+ *.js linguist-language=JavaScript
+ *.js linguist-detectable=true
+
+ *.ts linguist-language=TypeScript
+ *.ts linguist-detectable=true
+
+ *.css linguist-language=CSS
+ *.css linguist-detectable=true
+
+ *.md linguist-language=MarkDown
+ *.md linguist-detectable=true
