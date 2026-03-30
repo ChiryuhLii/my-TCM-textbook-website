@@ -13,11 +13,11 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 ***
 
 
-### 📜 版权归属 
+### 版权归属 
 
 本项目内所有**教材原文**的著作权均归属于**中国中医药出版社**，受[《中华人民共和国著作权法》](https://www.gov.cn/guoqing/2021-10/29/content_5647633.htm)保护。本人仅对网站的代码实现、界面布局(UI/UX)、交互逻辑及排版样式拥有著作权。网站首页已明确标注版权信息，坚决尊重和保护原作者与出版社的合法权益。
 
-### 📄 许可证 
+### 许可证 
 
 本项目采用 **双重许可（Dual License）** 声明：
 
@@ -27,7 +27,7 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 详情请参阅项目根目录的 [LICENSE](https://github.com/ChiryuhLii/my-TCM-textbook-website#MIT-1-ov-file) 文件。
 
 
-### 🤝 如何贡献
+### 如何贡献
 
 欢迎一切**技术层面**的讨论与贡献！但请注意：
 
@@ -36,7 +36,7 @@ an inter-linked textbook website for Traditional Chinese Medicine based on Obsid
 
 ***
 
-### ✅ 网站备案
+### 网站备案
 本站已完成**工信部ICP备案**和**公安联网备案**，以宣明本项目技术性与合规性：
 
 <p align="center">
